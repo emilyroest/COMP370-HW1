@@ -1,0 +1,1 @@
+The counting problem is coming from the inclusion of retweets, assuming they can be considered two different tweets. Since the content of the message is the same, the mention of Trump (or lack thereof) is counted twice.
